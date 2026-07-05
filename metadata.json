@@ -1,0 +1,6 @@
+{
+  "name": "Medivell",
+  "description": "An agency offering custom web development, SaaS building, and AI-powered lead generation automations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
